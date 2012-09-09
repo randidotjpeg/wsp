@@ -11,10 +11,17 @@ header {
 
 nav {
 	width: 60%;
+	display: block;
+	float: center;
+	width: 1200px;
+	height: 50px;
 }
 
 	nav ul {
 		width: 50%;
+		list-style: none;
+		margin: 0px;
+		padding: 0px;
 	}
 
 content {
