@@ -29,8 +29,6 @@ nav {
 		nav ul li {
 			display: block;
 			width: 100px;
-			position: relative;
-			float: left;
 		}
 
 content {
