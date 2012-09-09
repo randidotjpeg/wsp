@@ -12,9 +12,10 @@ header {
 nav {
 	width: 60%;
 	display: block;
-	float: center;
-	width: 1200px;
+	width: 900px;
 	height: 50px;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 	nav ul {
