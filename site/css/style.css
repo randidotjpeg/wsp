@@ -5,6 +5,8 @@ html, head, body {
 
 header {
 	width: 60%;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 nav {
@@ -57,6 +59,8 @@ ul {
 
 footer {
 	width: 60%;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 @media screen and (min-width: 768px) and (max-width: 959px) {
