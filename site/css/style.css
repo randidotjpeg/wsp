@@ -25,6 +25,10 @@ nav {
 		padding: 0px;
 	}
 
+		nav ul li {
+			display: block;
+			width: 100px;
+
 content {
 	width: 60%;
 	display: block;
